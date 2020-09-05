@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "webpack-test5",
   "version": "1.0.0",
-  "description": "",
+  "description": "The fifth and final test",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
